@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./solution/Screenshot_Product_preview_card_component.jpg)
+![solution-image](./solution/Screenshot_Product_preview_card_component.png)
 
 ### Links
 
