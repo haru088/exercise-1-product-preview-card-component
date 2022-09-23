@@ -1,0 +1,130 @@
+body{
+  background-color: yellow;
+  background-color: hsl(30, 38%, 92%);
+  margin: 0;
+
+}
+
+.container{
+  background-color: White;
+  width: 800px;
+  height: 600px;
+  border-radius: 25px;
+  position: relative;
+  top: 150px;
+  left: 22.22%
+
+
+}
+
+.product-img{
+  height: 600px;
+  width: auto;
+  border-radius: 25px 0 0 25px;
+  position: absolute;
+
+}
+
+.explanation-container{
+  position: relative;
+  left: 400px;
+  right: 0;
+  padding: 30px 30px 20px 30px;
+  width: 340px;
+
+}
+
+.add-to-cart{
+  position: relative;
+  display: inline-block;
+  left: 430px;
+  top: 30px;
+
+}
+.btn {
+  background: green;
+  background: hsl(158, 36%, 37%);
+  border-radius: 6px;
+  font-family: "Montserrat",cursive;
+  color: White;
+  font-size: 20px;
+  padding: 20px 100px 20px 100px;
+  text-decoration: none;
+
+
+
+}
+
+.btn:hover {
+  background: green;
+  background: hsl(158, 36%, 0%);
+  text-decoration: none;
+}
+
+h1{
+  color: blue;
+  color: hsl(212, 21%, 14%);
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  width: 300px;
+  font-size: 44px;
+}
+
+h2{
+  color: blue;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+
+}
+
+.exp{
+  color: blue;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 2;
+  width: 340px;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.new-price{
+  color: blue;
+  color: hsl(158, 36%, 37%);
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  font-size: 40px;
+  display: inline;
+
+}
+
+.old-price{
+  color: blue;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: line-through;
+  display: inline;
+  position: relative;
+  bottom: 10px;
+  left: 30px;
+
+}
+
+.attribution{
+  color: blue;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  left: 36.5625%;
+
+
+}
